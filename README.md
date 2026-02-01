@@ -27,9 +27,7 @@ This is **not a functional streaming app** — it is a **UI-only clone**.
 - Movie & TV show card layout  
 - Scrollable content sections  
 - Footer section  
-- Responsive layout (basic)
-
-*(Only keep “responsive” if it actually is. If not, remove it.)*
+- Responsive layout 
 
 ---
 
@@ -67,6 +65,7 @@ It is **not affiliated with, endorsed by, or connected to Amazon or Prime Video*
 ![first](screenshots/clone_1.png)
 ![second](screenshots/clone_2.png)
 ![third](screenshots/clone_3.png)
+
 
 
 
